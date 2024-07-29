@@ -1,0 +1,3 @@
+Dataset Link 
+
+https://www.kaggle.com/datasets/slygirl/rice-leaf-disease-with-segmentation-labels
